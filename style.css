@@ -1,26 +1,21 @@
 @font-face {
-    src: url(font/Inter-Bold.ttf);
+    src: url(font/paladinssuperital.ttf);
     font-family: F1;
 }
 body {
-    background-color: black;
+    background-color: rgb(59, 59, 59);
 }
 
 h1 {
-background-color: black;
+background-color:rgb(59, 59, 59);
 color: white;
 font-family: F1;
 position: relative;
-left: 800px;
+left: 750px;
+font-size:70px;
 
 }
 
-p { 
-    color: white;
-    font-family: F1;
-    position: relative;
-    top: 150px;
-}
 .facebook img {
     position: relative;
     left: 550px;
