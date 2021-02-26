@@ -7,11 +7,10 @@ body {
 }
 
 h1 {
-background-color:rgb(59, 59, 59);
-color: white;
+color: white;    
 font-family: F1;
 position: relative;
-left: 750px;
+left: 730px;
 font-size:70px;
 
 }
@@ -20,18 +19,20 @@ font-size:70px;
     position: relative;
     left: 550px;
     top: 40px;
+    border: 1px solid #000000;
 }
 
 .twitter img {
     position: relative;
     left: 850px;
-    bottom: 90px;
+    bottom: 62px;
+    border: 1px solid #000000;
 
 }
 
 .youtube img {
     position: relative;
     left: 1150px;
-    bottom: 240px;
+    bottom: 163px;
+    border: 1px solid #000000;
 }
-
